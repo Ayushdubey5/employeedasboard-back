@@ -1,0 +1,102 @@
+[
+  {
+    "id": "CRM-101",
+    "title": "Follow up with Client ACME Corp",
+    "assignedTo": "Rahul Sharma",
+    "status": "Pending",
+    "priority": "High",
+    "dueDate": "2025-07-15",
+    "sourceApp": "CRM",
+    "sourceUrl": "https://crm.example.com/tasks/101"
+  },
+  {
+    "id": "CRM-102",
+    "title": "Prepare quarterly sales report for Q3",
+    "assignedTo": "Priya Patel",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2025-07-20",
+    "sourceApp": "CRM",
+    "sourceUrl": "https://crm.example.com/tasks/102"
+  },
+  {
+    "id": "CRM-103",
+    "title": "Onboard new enterprise client TechNova",
+    "assignedTo": "Amit Kumar",
+    "status": "Pending",
+    "priority": "High",
+    "dueDate": "2025-07-10",
+    "sourceApp": "CRM",
+    "sourceUrl": "https://crm.example.com/tasks/103"
+  },
+  {
+    "id": "CRM-104",
+    "title": "Update contact database with latest leads",
+    "assignedTo": "Sneha Gupta",
+    "status": "Completed",
+    "priority": "Low",
+    "dueDate": "2025-07-05",
+    "sourceApp": "CRM",
+    "sourceUrl": "https://crm.example.com/tasks/104"
+  },
+  {
+    "id": "CRM-105",
+    "title": "Schedule demo call with BrightPath Solutions",
+    "assignedTo": "Rahul Sharma",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2025-07-12",
+    "sourceApp": "CRM",
+    "sourceUrl": "https://crm.example.com/tasks/105"
+  },
+  {
+    "id": "CRM-106",
+    "title": "Negotiate contract renewal with GlobalTech",
+    "assignedTo": "Vikram Singh",
+    "status": "Pending",
+    "priority": "High",
+    "dueDate": "2025-07-08",
+    "sourceApp": "CRM",
+    "sourceUrl": "https://crm.example.com/tasks/106"
+  },
+  {
+    "id": "CRM-107",
+    "title": "Send invoice to DataFlow Inc",
+    "assignedTo": "Priya Patel",
+    "status": "Pending",
+    "priority": "Low",
+    "dueDate": "2025-07-25",
+    "sourceApp": "CRM",
+    "sourceUrl": "https://crm.example.com/tasks/107"
+  },
+  {
+    "id": "CRM-108",
+    "title": "Review partnership proposal from CloudSync",
+    "assignedTo": "Amit Kumar",
+    "status": "In Progress",
+    "priority": "Medium",
+    "dueDate": "2025-07-18",
+    "sourceApp": "CRM",
+    "sourceUrl": "https://crm.example.com/tasks/108"
+  },
+  {
+    "id": "CRM-109",
+    "title": "Resolve billing discrepancy for MegaCorp",
+    "assignedTo": "Sneha Gupta",
+    "status": "Pending",
+    "priority": "High",
+    "dueDate": "2025-06-28",
+    "sourceApp": "CRM",
+    "sourceUrl": "https://crm.example.com/tasks/109"
+  },
+  {
+    "id": "CRM-110",
+    "title": "Prepare client satisfaction survey analysis",
+    "assignedTo": "Vikram Singh",
+    "status": "Completed",
+    "priority": "Low",
+    "dueDate": "2025-07-01",
+    "sourceApp": "CRM",
+    "sourceUrl": "https://crm.example.com/tasks/110"
+  }
+]

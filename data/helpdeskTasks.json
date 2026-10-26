@@ -1,0 +1,102 @@
+[
+  {
+    "id": "HD-501",
+    "title": "Fix critical payment gateway timeout",
+    "assignedTo": "Rahul Sharma",
+    "status": "Open",
+    "urgency": "Critical",
+    "dueDate": "2025-07-09",
+    "sourceApp": "Helpdesk",
+    "sourceUrl": "https://helpdesk.example.com/tickets/501"
+  },
+  {
+    "id": "HD-502",
+    "title": "Resolve Login Timeout Defect",
+    "assignedTo": "Priya Patel",
+    "status": "In Progress",
+    "urgency": "Critical",
+    "dueDate": "2025-07-11",
+    "sourceApp": "Helpdesk",
+    "sourceUrl": "https://helpdesk.example.com/tickets/502"
+  },
+  {
+    "id": "HD-503",
+    "title": "Update user permissions module",
+    "assignedTo": "Amit Kumar",
+    "status": "Open",
+    "urgency": "Moderate",
+    "dueDate": "2025-07-14",
+    "sourceApp": "Helpdesk",
+    "sourceUrl": "https://helpdesk.example.com/tickets/503"
+  },
+  {
+    "id": "HD-504",
+    "title": "Investigate slow dashboard load times",
+    "assignedTo": "Sneha Gupta",
+    "status": "In Progress",
+    "urgency": "Moderate",
+    "dueDate": "2025-07-16",
+    "sourceApp": "Helpdesk",
+    "sourceUrl": "https://helpdesk.example.com/tickets/504"
+  },
+  {
+    "id": "HD-505",
+    "title": "Add dark mode toggle to settings page",
+    "assignedTo": "Vikram Singh",
+    "status": "Open",
+    "urgency": "Low",
+    "dueDate": "2025-07-30",
+    "sourceApp": "Helpdesk",
+    "sourceUrl": "https://helpdesk.example.com/tickets/505"
+  },
+  {
+    "id": "HD-506",
+    "title": "Fix email notification not triggering",
+    "assignedTo": "Rahul Sharma",
+    "status": "Resolved",
+    "urgency": "Critical",
+    "dueDate": "2025-07-03",
+    "sourceApp": "Helpdesk",
+    "sourceUrl": "https://helpdesk.example.com/tickets/506"
+  },
+  {
+    "id": "HD-507",
+    "title": "Database migration for v2.5 schema",
+    "assignedTo": "Priya Patel",
+    "status": "Open",
+    "urgency": "Moderate",
+    "dueDate": "2025-07-22",
+    "sourceApp": "Helpdesk",
+    "sourceUrl": "https://helpdesk.example.com/tickets/507"
+  },
+  {
+    "id": "HD-508",
+    "title": "SSL certificate renewal for staging server",
+    "assignedTo": "Amit Kumar",
+    "status": "Open",
+    "urgency": "Critical",
+    "dueDate": "2025-06-30",
+    "sourceApp": "Helpdesk",
+    "sourceUrl": "https://helpdesk.example.com/tickets/508"
+  },
+  {
+    "id": "HD-509",
+    "title": "Write API documentation for endpoints",
+    "assignedTo": "Sneha Gupta",
+    "status": "In Progress",
+    "urgency": "Low",
+    "dueDate": "2025-07-28",
+    "sourceApp": "Helpdesk",
+    "sourceUrl": "https://helpdesk.example.com/tickets/509"
+  },
+  {
+    "id": "HD-510",
+    "title": "Resolve CORS issues on production API",
+    "assignedTo": "Vikram Singh",
+    "status": "Open",
+    "urgency": "Moderate",
+    "dueDate": "2025-07-13",
+    "sourceApp": "Helpdesk",
+    "sourceUrl": "https://helpdesk.example.com/tickets/510"
+  }
+]
