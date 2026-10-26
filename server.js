@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 5000;
 
 // Middleware
 app.use(cors({
-  origin: ['http://localhost:5173', 'http://localhost:3000', 'http://127.0.0.1:5173','https://employeedashboard-iymaj04t2-ayushdubey5s-projects.vercel.app'],
+  origin: ['http://localhost:5173', 'http://localhost:3000', 'http://127.0.0.1:5173','https://employeedashboard-two.vercel.app'],
   methods: ['GET', 'POST'],
   credentials: true,
 }));
